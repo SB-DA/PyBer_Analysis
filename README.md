@@ -8,6 +8,9 @@ Analyze and Visualize ride-sharing data using the power of Python, Pandas and Ma
 
 ## Results
 1. Urban city has more rides compared to Suburban and Rural cities.
+- Urban     - 125
+- Suburban  - 625
+- Rural     - 1625
 
 ![image](https://user-images.githubusercontent.com/78935551/113494649-2e808500-94b8-11eb-82ea-a87263ee7579.png)
 
