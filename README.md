@@ -42,7 +42,8 @@ Analyze and Visualize ride-sharing data using the power of Python, Pandas and Ma
 
 7) We also created a object-oriented interface method, to plot this dataframe.
 
-![image](https://user-images.githubusercontent.com/78935551/113495273-5b379b00-94be-11eb-8c83-7ca081029883.png)
+![image](https://user-images.githubusercontent.com/78935551/113495759-82dc3280-94c1-11eb-82d1-1c7c133b12cb.png)
+
 
 ## Summary 
 - 
