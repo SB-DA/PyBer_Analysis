@@ -35,6 +35,7 @@ Analyze and Visualize ride-sharing data using the power of Python, Pandas and Ma
 ![image](https://user-images.githubusercontent.com/78935551/113495069-b8cae800-94bc-11eb-8016-5716490d3c2b.png)
 
 6) We also tried to create and analyze the total fares for each week for each city type between January & April. The below image gives us overall pricing for each week and it's the highest in Urban cities.
+![image](https://user-images.githubusercontent.com/78935551/113495580-cd10e400-94c0-11eb-9865-685efde734ba.png)
 
 ![image](https://user-images.githubusercontent.com/78935551/113495142-44dd0f80-94bd-11eb-85ff-7af95f5450cc.png)
 
