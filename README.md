@@ -44,7 +44,7 @@ Analyze and Visualize ride-sharing data using the power of Python, Pandas and Ma
 ![image](https://user-images.githubusercontent.com/78935551/113495778-a3a48800-94c1-11eb-9f9b-5983745c570b.png)
 
 ## Summary 
-- You can see there is a huge demand for Pyber ride-sharing services in Urban cities. Pyber should come up with plans to maintain this demand of service and build the brand name. Coming up with promotions and discounts will help encourage more business. Dynamic pricing stragety will also work best in these cities. for example, change in the pricing as per Traffic, Peak hours, or even Holidays.
+- You can see there is a huge demand for Pyber ride-sharing services in Urban cities. Pyber should come up with plans to maintain this demand of service and build the brand name. Coming up with promotions and discounts will help encourage more business. Dynamic pricing strategy will also work best in these cities. For example, change in the pricing as per Traffic, Peak hours, or even Holidays.
 
 - There is a considerable amount of demand and supply in Suburban cities but less compared to Urban cities. There is huge scope of improvement here as more and more families now prefer moving to suburbs. I guess learning the suburban market trend will help Pyber see where it is lacking behind. Maybe doing a survey in these cities will help get more informaiton.
 
