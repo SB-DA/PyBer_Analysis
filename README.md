@@ -12,12 +12,12 @@ Analyze and Visualize ride-sharing data using the power of Python, Pandas and Ma
 - Suburban  - 625
 - Rural     - 1625
 
-![image](https://user-images.githubusercontent.com/78935551/113494649-2e808500-94b8-11eb-82ea-a87263ee7579.png)
-
 2. There are more drivers in Urban cities compared to Suburban and Rural cities.
-
-![image](https://user-images.githubusercontent.com/78935551/113494669-77d0d480-94b8-11eb-8eac-e1fc8f8cea35.png)
+- Urban     - 78
+- Suburban  - 490
+- Rural     - 2405
 
 3) Total fares for was higher in Urban cities compared to Suburan and Rural.
-
-![image](https://user-images.githubusercontent.com/78935551/113494679-920ab280-94b8-11eb-840e-15244bbc7520.png)
+- Urban     - 4327.93
+- Suburban  - 19356.33
+- Rural     - 39854.38
