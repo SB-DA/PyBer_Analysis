@@ -9,6 +9,11 @@ Analyze and Visualize ride-sharing data using the power of Python, Pandas and Ma
 ## Results
 1) Total rides for each city type was 
 
+Rural    - 125
+Suburbun - 625
+Urban    - 1625
+
+
 ![image](https://user-images.githubusercontent.com/78935551/113494649-2e808500-94b8-11eb-82ea-a87263ee7579.png)
 
 2) Total drivers for each city type was
