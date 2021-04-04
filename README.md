@@ -22,15 +22,15 @@ Analyze and Visualize ride-sharing data using the power of Python, Pandas and Ma
 - Suburban  - 19356.33
 - Urban     - 39854.38
 
-4) The Average fare per ride was higher in rural cities compared to Suburban and Urban cities.
-- Rural       34.623440
-- Suburban    30.970128
-- Urban       24.525772
+4) The Average fare per ride is higher in rural cities compared to Suburban and Urban cities.
+- Rural     - 34.623440
+- Suburban  - 30.970128
+- Urban     - 24.525772
 
 5) The average fare per driver was also higher in Rural cities compared to Suburban and Urban cities.
-- Rural       55.486282
-- Suburban    39.502714
-- Urban       16.571468
+- Rural     - 55.486282
+- Suburban  - 39.502714
+- Urban     - 16.571468
 
 ![image](https://user-images.githubusercontent.com/78935551/113495671-2f69e480-94c1-11eb-8190-cf86ae65536a.png)
 
@@ -44,6 +44,5 @@ Analyze and Visualize ride-sharing data using the power of Python, Pandas and Ma
 ![image](https://user-images.githubusercontent.com/78935551/113495778-a3a48800-94c1-11eb-9f9b-5983745c570b.png)
 
 ## Summary 
-- 
-
+- By focusing on Rural and Suburban cities Pyber can yield more profits as the average per ride is higher in these cities compared to Urban cities.
 
