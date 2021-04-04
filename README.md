@@ -44,5 +44,6 @@ Analyze and Visualize ride-sharing data using the power of Python, Pandas and Ma
 ![image](https://user-images.githubusercontent.com/78935551/113495778-a3a48800-94c1-11eb-9f9b-5983745c570b.png)
 
 ## Summary 
-- By focusing on Rural and Suburban cities Pyber can yield more profits as the average per ride is higher in these cities compared to Urban cities.
+- By focusing on Rural and Suburban cities Pyber can yield more profits as the average fare per ride is higher in these cities compared to Urban cities.
+- 
 
